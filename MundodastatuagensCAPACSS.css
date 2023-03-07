@@ -1,0 +1,28 @@
+body {
+
+    background-color: beige;
+
+}
+
+header {
+    text-align: center;
+    font-family: 'Germania One', Times, serif;
+    font-size: 100px;
+    
+}
+
+footer {
+    text-align: center;
+    font-family: 'Germania One', Times, serif;
+     font-size: 100px;
+     
+}
+
+img {
+    position: relative;
+    margin-left: 500px;
+}
+
+h2 {
+    text-align: center;
+}
